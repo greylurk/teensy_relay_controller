@@ -56,9 +56,10 @@
 </layers>
 <board>
 <plain>
-<wire x1="0" y1="38.1" x2="44.12" y2="38.1" width="0" layer="20"/>
-<wire x1="44.12" y1="80" x2="0" y2="80" width="0" layer="20"/>
-<wire x1="0" y1="80" x2="0" y2="38.1" width="0" layer="20"/>
+<wire x1="0" y1="38.1" x2="44.45" y2="38.1" width="0" layer="20"/>
+<wire x1="0" y1="82.55" x2="0" y2="38.1" width="0" layer="20"/>
+<wire x1="44.45" y1="82.55" x2="44.45" y2="38.1" width="0" layer="20"/>
+<wire x1="44.45" y1="82.55" x2="0" y2="82.55" width="0" layer="20"/>
 </plain>
 <libraries>
 <library name="Teensy3.0">
